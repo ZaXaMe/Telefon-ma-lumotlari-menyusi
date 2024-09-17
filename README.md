@@ -1,0 +1,1 @@
+# Bu dasturda telefon haqidagi ma'lumotlarni kiritish va ularni chiqarib olish mumkin.
